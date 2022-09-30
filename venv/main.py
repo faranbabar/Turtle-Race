@@ -28,16 +28,4 @@ while is_race_on:
         ran_dist=random.randint(0,10)
         move=random.choice(turtles)
         move.forward(ran_dist)
-
-
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
